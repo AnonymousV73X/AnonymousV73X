@@ -1,64 +1,42 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sir Alex</h1>
+<h3 align="center">Full stack developer</h3>
 
-# Sir Alex — building self-hosted media & automation infra 🍿
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousv73x&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousv73x" /> </p>
 
-Final-year BSc IT student (Kabarak University, Kenya) shipping desktop apps, Telegram-based streaming infra, and AI tools for real users on real-world networks.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymousv73x" alt="anonymousv73x" /></a> </p>
 
-</div>
+- 🔭 I’m currently working on [NovaTune](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)
 
----
+- 🌱 I’m currently learning **FastAPI, Tantivy, LLM Integration**
 
-### 🔭 Currently building
-- **NovaTune** — Electron music player for Windows: FLAC seek tables, mmap caching, ThumbHash covers
-- **Smart Entertainment Bot** — Telegram media search bot, Tantivy BM25 + Groq LLM query refinement, serving live users via [@Smart_Search69bot](https://t.me/Smart_Search69bot)
-- **StreamVault** — self-hosted Telegram video streaming server (HLS, local Bot API)
+- 👯 I’m looking to collaborate on [StreamVault](https://github.com/AnonymousV73X/TELEGRAM-VIDEO-STREAMER-STREAMVAULT)
 
-### 🔭 I'm currently working on
-NovaTune — performance tuning for HDD environments and Windows 11 rendering fixes
+- 🤝 I’m looking for help with [Shamba-AI](https://github.com/AnonymousV73X/SHAMBA-AI)
 
-### 👯 I'm looking to collaborate on
-Self-hosted media streaming tools & Telegram automation bots
+- 👨‍💻 All of my projects are available at [https://sir-alex.surge.sh](https://sir-alex.surge.sh)
 
-### 🤝 I'm looking for help with
-Electron performance on low-end hardware & FastAPI + LLM integration patterns
+- 📝 I regularly write articles on [https://t.me/smartentertainmentt](https://t.me/smartentertainmentt)
 
-### 🌱 I'm currently learning
-Search engine internals (Tantivy/BM25) and scripting-language automation
+- 💬 Ask me about **Telegram bots, Electron apps, self-hosted streaming**
 
-### 💬 Ask me about
-Telegram's MTProto ecosystem, self-hosted streaming infra, Electron desktop apps
+- 📫 How to reach me **alexamanikalume@gmail.com**
 
-### ⚡ Fun fact
-I run a live Telegram media search bot serving real users in Kenya, built solo
+- 📄 Know about my experiences [https://github.com/AnonymousV73X](https://github.com/AnonymousV73X)
 
-### 🧰 Stack
+- ⚡ Fun fact **I've got a running telegram bot https://t.me/Smart_Search69bot**
 
-| Area | Tools |
-|---|---|
-| Languages | Python, JavaScript, HTML/CSS |
-| Desktop | Electron, IPC architecture, node-native perf work |
-| Backend | FastAPI, aiohttp, SQLite (WAL) |
-| Infra | MTProto/Telegram bots, Tantivy search, self-hosted media pipelines |
-| AI | Gemini API, Groq LLM integration |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### ⭐ Featured projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- **[WINDOWS-MUSIC-PLAYER](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)** — modern desktop music player: library scan, synced lyrics, equalizer, cover art
-- **[TELEGRAM-VIDEO-STREAMER-STREAMVAULT](https://github.com/AnonymousV73X/TELEGRAM-VIDEO-STREAMER-STREAMVAULT)** — stream media from Telegram channels, self-hosted, HLS-based
-- **[SHAMBA-AI](https://github.com/AnonymousV73X/SHAMBA-AI)** — AI crop disease detection for Kenyan farmers, EN/SW, works on 2G/3G
-- **[PIKPAK-TO-GOOGLE-DRIVE-TELEGRAM-BOT](https://github.com/AnonymousV73X/PIKPAK-TO-GOOGLE-DRIVE-TELEGRAM-BOT)** — automated cloud-to-cloud transfer pipeline
-- **[NETWORK-CPU-MONITOR-WIDGET](https://github.com/AnonymousV73X/NETWORK-CPU-MONITOR-WIDGET)** — lightweight Windows desktop widget (Electron + Python)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/siralex254"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/siralex254" /></a></p><br><br>
 
-### 📊 Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymousv73x&show_icons=true&locale=en&layout=compact" alt="anonymousv73x" /></p>
 
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymousv73x&show_icons=true&locale=en" alt="anonymousv73x" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousV73X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousV73X&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnonymousV73X&theme=tokyonight&hide_border=true)
-
-</div>
-
-### 🔗 Find me
-
-[Smart Search Bot](https://t.me/Smart_Search69bot) · [IT Hub](https://ithub.surge.sh) · [Portfolio](https://sir-alex.surge.sh)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousv73x&" alt="anonymousv73x" /></p>
