@@ -1,10 +1,10 @@
-<h3 align="left">Felicitations  .... I'm Sir Alex:</h3>
+<p align="left" style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Felicitations  .... I'm Sir Alex:</p>
 
 - 🔭 I'm currently working on [NovaTune](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)
 
 - ⚡ Fun fact **I've got a running telegram bot https://t.me/Smart_Search69bot**
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left" style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Languages and Tools:</p>
 <p align="left">
 <img src="https://img.shields.io/badge/Android-181818?style=flat-square&logo=android&logoColor=3DDC84" />
 <img src="https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=1572B6" />
@@ -22,5 +22,5 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
 
-<h3 align="left">Support:</h3>
+<p align="left" style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
 <p><a href="https://www.buymeacoffee.com/siralex254"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siralex254" /></a></p><br><br>
