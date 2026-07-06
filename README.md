@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sir Alex</h1>
 <h3 align="center">Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnonymousV73X&label=Profile%20views&color=0e75b6&style=flat" alt="AnonymousV73X" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousv73x&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousv73x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnonymousV73X&theme=onedark&row=1&column=7" alt="AnonymousV73X" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymousv73x&theme=onedark" alt="anonymousv73x" /></a> </p>
 
-- 🔭 I'm currently working on [NovaTune](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)
+- 🔭 I’m currently working on [NovaTune](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)
 
-- 🌱 I'm currently learning **FastAPI, Tantivy, LLM Integration**
+- 🌱 I’m currently learning **FastAPI, Tantivy, LLM Integration**
 
-- 👯 I'm looking to collaborate on [StreamVault](https://github.com/AnonymousV73X/TELEGRAM-VIDEO-STREAMER-STREAMVAULT)
+- 👯 I’m looking to collaborate on [StreamVault](https://github.com/AnonymousV73X/TELEGRAM-VIDEO-STREAMER-STREAMVAULT)
 
-- 🤝 I'm looking for help with [Shamba-AI](https://github.com/AnonymousV73X/SHAMBA-AI)
+- 🤝 I’m looking for help with [Shamba-AI](https://github.com/AnonymousV73X/SHAMBA-AI)
 
 - 👨‍💻 All of my projects are available at [https://sir-alex.surge.sh](https://sir-alex.surge.sh)
 
@@ -25,27 +25,18 @@
 
 - ⚡ Fun fact **I've got a running telegram bot https://t.me/Smart_Search69bot**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;&nbsp;
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/siralex254" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=siralex254&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousV73X&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="AnonymousV73X" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymousv73x&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="anonymousv73x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonymousV73X&show_icons=true&locale=en&theme=dark&hide_border=true&hide_rank=true&bg_color=0d1117" alt="AnonymousV73X" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymousv73x&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117" alt="anonymousv73x" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=AnonymousV73X&theme=dark&hide_border=true&background=0D1117" alt="AnonymousV73X" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
