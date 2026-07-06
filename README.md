@@ -2,9 +2,9 @@
 
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Felicitations 😎 .... Sir Alex Here:</p>
 
-🔭 I'm currently working on [NovaTune](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)
+🔭 I'm currently working on <a href="https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER"><img src="https://img.shields.io/badge/NovaTune-181818?style=flat-square&logo=github&logoColor=white" /></a>
 <br>
-⚡ Fun fact **I've got a running telegram bot https://t.me/Smart_Search69bot**
+⚡ Fun fact I've got a running telegram bot <a href="https://t.me/Smart_Search69bot"><img src="https://img.shields.io/badge/Telegram_Bot-181818?style=flat-square&logo=telegram&logoColor=26A5E4" /></a>
 
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Languages and Tools:</p>
 
