@@ -1,0 +1,35 @@
+name: Generate stats images
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate GitHub stats overview + languages
+        uses: jstrieb/github-stats@master
+        with:
+          username: AnonymousV73X
+          access_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GENERATED_IMAGES_FOLDER: imgs
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=AnonymousV73X&theme=dark&hide_border=true&background=0D1117
+          path: imgs/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add imgs/
+          git commit -m "Update stats images" || exit 0
+          git push
