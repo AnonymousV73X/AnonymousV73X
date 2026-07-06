@@ -13,6 +13,24 @@ Final-year BSc IT student (Kabarak University, Kenya) shipping desktop apps, Tel
 - **Smart Entertainment Bot** — Telegram media search bot, Tantivy BM25 + Groq LLM query refinement, serving live users via [@Smart_Search69bot](https://t.me/Smart_Search69bot)
 - **StreamVault** — self-hosted Telegram video streaming server (HLS, local Bot API)
 
+### 🔭 I'm currently working on
+NovaTune — performance tuning for HDD environments and Windows 11 rendering fixes
+
+### 👯 I'm looking to collaborate on
+Self-hosted media streaming tools & Telegram automation bots
+
+### 🤝 I'm looking for help with
+Electron performance on low-end hardware & FastAPI + LLM integration patterns
+
+### 🌱 I'm currently learning
+Search engine internals (Tantivy/BM25) and scripting-language automation
+
+### 💬 Ask me about
+Telegram's MTProto ecosystem, self-hosted streaming infra, Electron desktop apps
+
+### ⚡ Fun fact
+I run a live Telegram media search bot serving real users in Kenya, built solo
+
 ### 🧰 Stack
 
 | Area | Tools |
