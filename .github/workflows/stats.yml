@@ -13,19 +13,39 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Generate GitHub stats overview + languages
-        uses: jstrieb/github-stats@master
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          username: AnonymousV73X
-          access_token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.11"
+
+      - name: Clone jstrieb/github-stats generator
+        run: git clone --depth 1 https://github.com/jstrieb/github-stats.git /tmp/github-stats
+
+      - name: Install dependencies
+        run: pip install -r /tmp/github-stats/requirements.txt
+
+      - name: Generate overview + languages SVGs
+        working-directory: /tmp/github-stats
+        run: python3 generate_images.py
         env:
-          GENERATED_IMAGES_FOLDER: imgs
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDE_FORKED_REPOS: "true"
+
+      - name: Move generated images into imgs/
+        run: |
+          mkdir -p imgs
+          cp /tmp/github-stats/generated/overview.svg imgs/overview.svg
+          cp /tmp/github-stats/generated/languages.svg imgs/languages.svg
+
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=AnonymousV73X&theme=dark&hide_border=true&background=0D1117
           path: imgs/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit images
         run: |
           git config user.name "github-actions[bot]"
