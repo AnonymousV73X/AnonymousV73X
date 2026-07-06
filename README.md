@@ -1,6 +1,6 @@
 <div align="center">
 
-<p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Felicitations 😎 .... Sir Alex Here:</p>
+<p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Felicitations 😎 ... Sir Alex Here ...</p>
 
 <!-- Using a borderless, transparent table forces perfect vertical alignment in GitHub Readmes -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
