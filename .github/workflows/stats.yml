@@ -14,31 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Clone jstrieb/github-stats generator
-        run: git clone --depth 1 https://github.com/jstrieb/github-stats.git /tmp/github-stats
-
-      - name: Install dependencies
-        working-directory: /tmp/github-stats
-        run: pip install -r requirements/requirements.txt
+      - name: Download github-stats CLI
+        run: |
+          sudo curl -sSL \
+            --output /usr/local/bin/github-stats \
+            'https://github.com/jstrieb/github-stats/releases/latest/download/github-stats_x86_64-linux'
+          sudo chmod +x /usr/local/bin/github-stats
 
       - name: Generate overview + languages SVGs
-        working-directory: /tmp/github-stats
-        run: python3 generate_images.py
-        env:
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EXCLUDE_FORKED_REPOS: "true"
-
-      - name: Move generated images into imgs/
         run: |
           mkdir -p imgs
-          cp /tmp/github-stats/generated/overview.svg imgs/overview.svg
-          cp /tmp/github-stats/generated/languages.svg imgs/languages.svg
+          cd imgs
+          github-stats --access-token "${{ secrets.GITHUB_TOKEN }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
