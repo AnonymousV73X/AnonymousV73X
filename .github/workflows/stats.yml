@@ -23,7 +23,8 @@ jobs:
         run: git clone --depth 1 https://github.com/jstrieb/github-stats.git /tmp/github-stats
 
       - name: Install dependencies
-        run: pip install -r /tmp/github-stats/requirements.txt
+        working-directory: /tmp/github-stats
+        run: pip install -r requirements/requirements.txt
 
       - name: Generate overview + languages SVGs
         working-directory: /tmp/github-stats
