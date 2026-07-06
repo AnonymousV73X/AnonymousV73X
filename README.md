@@ -42,10 +42,10 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/siralex254"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siralex254" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/siralex254" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=siralex254&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousV73X&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="AnonymousV73X" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnonymousV73X&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="AnonymousV73X" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonymousV73X&show_icons=true&locale=en&theme=dark&hide_border=true" alt="AnonymousV73X" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=AnonymousV73X&show_icons=true&locale=en&theme=dark&hide_border=true" alt="AnonymousV73X" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=AnonymousV73X&theme=dark&hide_border=true" alt="AnonymousV73X" /></p>
