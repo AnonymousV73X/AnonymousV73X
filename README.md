@@ -1,82 +1,119 @@
-<h1 align="center">Sir Alex 🍀</h1>
-<h3 align="center">Just Vibin' — building stuff that streams, plays, and grows things 🌱</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnonymousV73X&style=flat-square&color=1ED760" />
-  <img src="https://img.shields.io/badge/status-just_vibin'-1ED760?style=flat-square" />
-</p>
+# Sir Alex
 
----
+### 🛰️ *"Just Vibin'"* — Nairobi, Kenya 🇰🇪
 
-### 🙋 About Me
+*Niko fine. Code inakam tu.*
 
-- 🇰🇪 Based in Kenya, building self-hosted media & AI tools
-- 🎧 Currently polishing **NovaTune** — my Electron music player
-- 🤖 Also run a few Telegram bots on the side (search, streaming, downloads)
-- 🌍 he/him
+</div>
 
 ---
 
-### 📌 Pinned Projects
+### 👋 About me
 
-<p align="left">
-  <a href="https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER"><img src="https://img.shields.io/badge/🍀_NovaTune-Music_Player-1ED760?style=flat-square" /></a>
-  <a href="https://github.com/AnonymousV73X/TELEGRAM-VIDEO-STREAMER-STREAMVAULT"><img src="https://img.shields.io/badge/🍿_StreamVault-Media_Server-1ED760?style=flat-square" /></a>
-</p>
-<p align="left">
-  <a href="https://github.com/AnonymousV73X/SHAMBA-AI"><img src="https://img.shields.io/badge/🌿_Shamba_AI-Crop_Diagnosis-1ED760?style=flat-square" /></a>
-  <a href="https://github.com/AnonymousV73X/MOVIE-RECOMMENDATION-WEBSITE"><img src="https://img.shields.io/badge/🎬_Movie_Recs-Website-1ED760?style=flat-square" /></a>
-</p>
-<p align="left">
-  <a href="https://github.com/AnonymousV73X/NETWORK-CPU-MONITOR-WIDGET"><img src="https://img.shields.io/badge/🪶_Sys_Monitor-Desktop_Widget-1ED760?style=flat-square" /></a>
-  <a href="https://github.com/AnonymousV73X/PIKPAK-TO-GOOGLE-DRIVE-TELEGRAM-BOT"><img src="https://img.shields.io/badge/📦_PikPak_Bot-Telegram-1ED760?style=flat-square" /></a>
-</p>
+Hey, I'm **Sir Alex** — `AnonymousV73X` on the wire. I build casual-but-useful software from Nairobi: music players, Telegram bots, AI tools for farmers, weird little desktop widgets. Mostly Python and JavaScript, mostly shipped at 2am, mostly vibin'.
+
+- 🎧 Currently spinning: **NovaTune** — my Windows music player
+- 🌱 Currently learning: whatever the next repo needs
+- 🛠️ Currently avoiding: writing bios
+- 📍 `254` to the world 🌍 → 🌟
 
 ---
 
-### 🛠️ Tech Stack
+### 🎧 NovaTune — the main thing
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=1ED760" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=1ED760" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=1ED760" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=1ED760" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=1ED760" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=1ED760" />
-  <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=1ED760" />
+> 🍀 *Modern desktop music player for Windows. Library scan, playlists, synced lyrics, equalizer, beautiful cover art. Built with Electron.*
+
+**What it does**
+
+- 🎵 Scans local libraries — MP3 · FLAC · M4A · OGG · WAV · OPUS · WMA · APE · WV · TTA · MPC
+- 🎨 Auto-fetches cover art + generates progressive thumbnails
+- 📝 Synced lyrics via LRCLIB
+- 🎚️ 10-band EQ + crossfade + real-time visualizer
+- ⚡ Binary manifest cache — 1000+ tracks load in under 50ms
+- 🪟 Custom titlebar · SMTC integration · mini-player overlay
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=flat&logo=javascript&logoColor=1ED760" />
+  <img src="https://img.shields.io/badge/Electron-181818?style=flat&logo=electron&logoColor=1ED760" />
+  <img src="https://img.shields.io/badge/SQLite-181818?style=flat&logo=sqlite&logoColor=1ED760" />
+  <img src="https://img.shields.io/badge/npm-181818?style=flat&logo=npm&logoColor=1ED760" />
 </p>
+
+→ **[github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)**
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Other builds
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnonymousV73X&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousV73X&layout=compact&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousV73X&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnonymousV73X&theme=dark&no-frame=true&row=1&column=6" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">🍿 StreamVault</h4>
+      <p align="left"><em>Stream videos & media straight from Telegram channels via HLS. Self-hosted, free, no CDN bills.</em></p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-181818?style=flat&logo=python&logoColor=1ED760" />
+        <img src="https://img.shields.io/badge/Telegram_Bot_API-181818?style=flat&logo=telegram&logoColor=1ED760" />
+      </p>
+      <p align="left">→ <a href="https://github.com/AnonymousV73X/TELEGRAM-VIDEO-STREAMER-STREAMVAULT">repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">🌿 Shamba AI</h4>
+      <p align="left"><em>AI-powered crop disease detection for Kenyan farmers. Snap a photo, get diagnosis + treatment steps. Built for 2G/3G.</em></p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/HTML-181818?style=flat&logo=html5&logoColor=1ED760" />
+        <img src="https://img.shields.io/badge/TensorFlow-181818?style=flat&logo=tensorflow&logoColor=1ED760" />
+      </p>
+      <p align="left">→ <a href="https://github.com/AnonymousV73X/SHAMBA-AI">repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">🎬 Movie Recommender</h4>
+      <p align="left"><em>Web-based movie recommendation engine. Lightweight, no signup, just picks you something to watch.</em></p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/HTML-181818?style=flat&logo=html5&logoColor=1ED760" />
+        <img src="https://img.shields.io/badge/JavaScript-181818?style=flat&logo=javascript&logoColor=1ED760" />
+      </p>
+      <p align="left">→ <a href="https://github.com/AnonymousV73X/MOVIE-RECOMMENDATION-WEBSITE">repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">🪶 CPU / Net Monitor Widget</h4>
+      <p align="left"><em>Lightweight always-on-top desktop widget for Windows. Real-time CPU usage and network stats. Electron + Python.</em></p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Electron-181818?style=flat&logo=electron&logoColor=1ED760" />
+        <img src="https://img.shields.io/badge/Python-181818?style=flat&logo=python&logoColor=1ED760" />
+      </p>
+      <p align="left">→ <a href="https://github.com/AnonymousV73X/NETWORK-CPU-MONITOR-WIDGET">repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">☁️ PikPak → GDrive Telegram Bot</h4>
+      <p align="left"><em>Telegram bot that mirrors PikPak links straight to Google Drive. Hands-free cloud hoarding.</em></p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-181818?style=flat&logo=python&logoColor=1ED760" />
+        <img src="https://img.shields.io/badge/Telegram-181818?style=flat&logo=telegram&logoColor=1ED760" />
+      </p>
+      <p align="left">→ <a href="https://github.com/AnonymousV73X/PIKPAK-TO-GOOGLE-DRIVE-TELEGRAM-BOT">repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">🤖 Smart Search Bot</h4>
+      <p align="left"><em>My first Telegram bot — still running, still serving. The one that started the vibe.</em></p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Telegram-181818?style=flat&logo=telegram&logoColor=1ED760" />
+        <img src="https://img.shields.io/badge/Live-1ED760?style=flat&logo=render&logoColor=181818" />
+      </p>
+      <p align="left">→ <a href="https://t.me/Smart_Search69bot">@Smart_Search69bot</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎲 Fun Facts
+<div align="center">
 
-- 🎧 Shipped 18 custom EQ presets in NovaTune because "good enough" wasn't
-- 🤖 Have more Telegram bots running than actual friends following me (sorry, 3 followers 😅)
-- 🌾 Built an AI that diagnoses crop diseases from a phone photo on 2G
-- ☕ 163 contributions this year and counting
+<sub>✨ Built different. Vibin' different. Shipping from the `254` to the stars. 🌟</sub>
 
----
-
-### 🌐 Links
-
-<p align="center">
-  <a href="https://t.me/Smart_Search69bot"><img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=1ED760" /></a>
-  <a href="https://sir-alex.surge.sh"><img src="https://img.shields.io/badge/Portfolio-1ED760?style=flat-square&logo=vercel&logoColor=1ED760" /></a>
-  <a href="https://ithub.surge.sh"><img src="https://img.shields.io/badge/ITHub-1ED760?style=flat-square&logo=vercel&logoColor=1ED760" /></a>
-  <a href="https://lyrics-fetch.surge.sh"><img src="https://img.shields.io/badge/Lyrics_Fetch-1ED760?style=flat-square&logo=vercel&logoColor=1ED760" /></a>
-</p>
+</div>
