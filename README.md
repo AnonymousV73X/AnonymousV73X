@@ -119,7 +119,7 @@ Hey, I'm **Sir Alex** — `AnonymousV73X` on the wire. I build casual-but-useful
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousV73X&layout=compact&theme=dark&hide_border=true&title_color=1ED760" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousV73X&theme=dark&hide_border=true&ring=1ED760&fire=1ED760&currStreakLabel=1ED760" />
+  <img src="https://streak-stats.demolab.com/?user=AnonymousV73X&theme=dark&hide_border=true&ring=1ED760&fire=1ED760&currStreakLabel=1ED760" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnonymousV73X&theme=dracula&no-frame=true&row=1&column=6" />
