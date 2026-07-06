@@ -112,6 +112,21 @@ Hey, I'm **Sir Alex** — `AnonymousV73X` on the wire. I build casual-but-useful
 
 ---
 
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnonymousV73X&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=1ED760&title_color=1ED760" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousV73X&layout=compact&theme=dark&hide_border=true&title_color=1ED760" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousV73X&theme=dark&hide_border=true&ring=1ED760&fire=1ED760&currStreakLabel=1ED760" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnonymousV73X&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 <div align="center">
 
 <sub>✨ Built different. Vibin' different. Shipping from the `254` to the stars. 🌟</sub>
