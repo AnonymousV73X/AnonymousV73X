@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sir Alex</h1>
-<h3 align="center">Full stack developer</h3>
 
 - 🔭 I'm currently working on [NovaTune](https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER)
 
 - ⚡ Fun fact **I've got a running telegram bot https://t.me/Smart_Search69bot**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,7 +19,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
+<p><img align="center" src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/siralex254"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siralex254" /></a></p><br><br>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
