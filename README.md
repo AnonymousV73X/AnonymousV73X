@@ -5,13 +5,13 @@
 <!-- Using a borderless, transparent table forces perfect vertical alignment in GitHub Readmes -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr style="border: none; background: none;">
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">🔭 I'm currently working on &nbsp;</td>
+    <td style="border: none; padding: 5px 0; vertical-align: middle;">🔭 Currently working on &nbsp;</td>
     <td style="border: none; padding: 5px 0; vertical-align: middle;">
       <a href="https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER"><img align="center" src="https://img.shields.io/badge/NovaTune-181818?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr style="border: none; background: none;">
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">⚡ Fun fact I've got a running telegram bot &nbsp;</td>
+    <td style="border: none; padding: 5px 0; vertical-align: middle;">⚡ BTW I've got a telegram bot &nbsp;</td>
     <td style="border: none; padding: 5px 0; vertical-align: middle;">
       <a href="https://t.me/Smart_Search69bot"><img align="center" src="https://img.shields.io/badge/Telegram_Bot-181818?style=flat-square&logo=telegram&logoColor=26A5E4" /></a>
     </td>
