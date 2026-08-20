@@ -3,8 +3,9 @@
 <!-- Using a borderless, transparent table forces perfect vertical alignment in GitHub Readmes -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr style="border: none; background: none;">
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">🔭 Currently working on &nbsp;</td>
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">
+        <td style="border: none; padding: 5px 0; vertical-align: middle;">
+      <a href="https://github.com/AnonymousV73X/KPLC-TOKEN-TRACKER-TASKZ"><img align="center" src="https://img.shields.io/badge/KPLC-181818?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
       <img align="center" src="https://img.shields.io/badge/KPLC-181818?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
