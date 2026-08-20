@@ -5,7 +5,7 @@
   <tr style="border: none; background: none;">
     <td style="border: none; padding: 5px 0; vertical-align: middle;">🔭 Currently working on &nbsp;</td>
     <td style="border: none; padding: 5px 0; vertical-align: middle;">
-      <a href="https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER"><img align="center" src="https://img.shields.io/badge/NovaTune-181818?style=flat-square&logo=github&logoColor=white" /></a>
+      <img align="center" src="https://img.shields.io/badge/KPLC-181818?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr style="border: none; background: none;">
@@ -15,11 +15,8 @@
     </td>
   </tr>
 </table>
-
 <br>
-
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Languages and Tools:</p>
-
 <p>
 <img src="https://img.shields.io/badge/Android-181818?style=flat-square&logo=android&logoColor=3DDC84" />
 <img src="https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=1572B6" />
@@ -34,11 +31,7 @@
 <img src="https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 </p>
-
 <p><img src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
-
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
-
 <p><a href="https://www.buymeacoffee.com/siralex254"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siralex254" /></a></p>
-
 </div>
