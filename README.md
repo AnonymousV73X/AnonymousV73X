@@ -33,5 +33,5 @@
 </p>
 <p><img src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
-<p><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="50" alt="Donate with PayPal" /></a></p>
+<p><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/blue.svg" height="60" alt="Donate with PayPal" /></a></p>
 </div>
