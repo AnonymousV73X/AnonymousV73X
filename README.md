@@ -33,5 +33,5 @@
 </p>
 <p><img src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
-<p><a href="https://www.buymeacoffee.com/siralex254"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siralex254" /></a></p>
+<p><a href="https://www.paypal.me/siralex254"><img src="https://img.shields.io/badge/Donate_via_PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" height="50" alt="Donate via PayPal" /></a></p>
 </div>
