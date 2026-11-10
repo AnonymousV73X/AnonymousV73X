@@ -34,8 +34,8 @@
 <p><img src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
 <table align="center" border="0" cellpadding="0" cellspacing="0"><tr style="border: none; background: none;">
-<td align="center" style="border: none; padding: 0 14px;"><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD"><img src="https://assets.stickpng.com/images/62977a08e01809629f113557.png" height="80" alt="PayPal Any Amount" /></a><br><b>Any Amount</b></td>
-<td align="center" style="border: none; padding: 0 14px;"><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=5"><img src="https://assets.stickpng.com/images/62977a1fe01809629f113558.png" height="80" alt="PayPal $5" /></a><br><b>$5</b></td>
-<td align="center" style="border: none; padding: 0 14px;"><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=100"><img src="https://assets.stickpng.com/images/62977a35e01809629f113559.png" height="80" alt="PayPal $100" /></a><br><b>$100</b></td>
+<td align="center" style="border: none; padding: 0 14px;"><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD"><img src="https://img.shields.io/badge/PayPal-Any_Amount-FFC439?style=for-the-badge&logo=paypal&logoColor=003087" height="50" alt="PayPal Any Amount" /></a></td>
+<td align="center" style="border: none; padding: 0 14px;"><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=5"><img src="https://img.shields.io/badge/PayPal-$5-FFC439?style=for-the-badge&logo=paypal&logoColor=003087" height="50" alt="PayPal $5" /></a></td>
+<td align="center" style="border: none; padding: 0 14px;"><a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=100"><img src="https://img.shields.io/badge/PayPal-$100-FFC439?style=for-the-badge&logo=paypal&logoColor=003087" height="50" alt="PayPal $100" /></a></td>
 </tr></table>
 </div>
