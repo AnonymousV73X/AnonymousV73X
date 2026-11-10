@@ -1,20 +1,10 @@
 <div align="center">
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Felicitations 😎 ... Sir Alex Here ...</p>
 <!-- Using a borderless, transparent table forces perfect vertical alignment in GitHub Readmes -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none; background: none;">
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">🔭 Currently working on &nbsp;</td>
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">
-      <a href="https://github.com/AnonymousV73X/LAN-FILE-TRANSFER-LANBEAM"><img align="center" src="https://img.shields.io/badge/LANBeam-181818?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">⚡ BTW I've got a telegram bot &nbsp;</td>
-    <td style="border: none; padding: 5px 0; vertical-align: middle;">
-      <a href="https://t.me/Smart_Search69bot"><img align="center" src="https://img.shields.io/badge/Telegram_Bot-181818?style=flat-square&logo=telegram&logoColor=26A5E4" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://github.com/AnonymousV73X/LAN-FILE-TRANSFER-LANBEAM"><img src="svg/working-lanbeam.svg" alt="Currently working on LANBeam" /></a><br>
+<a href="https://t.me/Smart_Search69bot"><img src="svg/working-bot.svg" alt="BTW I've got a telegram bot" /></a>
+</p>
 <br>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Languages and Tools:</p>
 <p>
