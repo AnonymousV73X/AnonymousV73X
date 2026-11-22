@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://github.com/AnonymousV73X/LAN-FILE-TRANSFER-LANBEAM"><img src="svg/working-lanbeam.svg" alt="Currently working on LANBeam" /></a><br>
 <a href="https://t.me/Smart_Search69bot"><img src="svg/working-bot.svg" alt="BTW I've got a telegram bot" /></a><br>
-<a href="https://github.com/AnonymousV73X/NovaTune"><img src="svg/proud-novatune.svg" alt="I’m Proud of NovaTune" /></a>
+<a href="https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER"><img src="svg/proud-novatune.svg" alt="I’m Proud of NovaTune" /></a>
 </p>
 <br>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Languages and Tools:</p>
