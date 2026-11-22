@@ -8,18 +8,18 @@
 <br>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Languages and Tools:</p>
 <p>
-<img src="https://img.shields.io/badge/Android-181818?style=flat-square&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Dart-181818?style=flat-square&logo=dart&logoColor=0175C2" />
-<img src="https://img.shields.io/badge/Firebase-181818?style=flat-square&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Flutter-181818?style=flat-square&logo=flutter&logoColor=02569B" />
-<img src="https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/Java-181818?style=flat-square&logo=openjdk&logoColor=007396" />
-<img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="svg/badges/android.svg" height="32" alt="Android" />
+<img src="svg/badges/css3.svg" height="32" alt="CSS3" />
+<img src="svg/badges/dart.svg" height="32" alt="Dart" />
+<img src="svg/badges/firebase.svg" height="32" alt="Firebase" />
+<img src="svg/badges/flutter.svg" height="32" alt="Flutter" />
+<img src="svg/badges/html5.svg" height="32" alt="HTML5" />
+<img src="svg/badges/openjdk.svg" height="32" alt="Java" />
+<img src="svg/badges/javascript.svg" height="32" alt="JavaScript" />
+<img src="svg/badges/nodedotjs.svg" height="32" alt="Node.js" />
+<img src="svg/badges/python.svg" height="32" alt="Python" />
+<img src="svg/badges/react.svg" height="32" alt="React" />
+<img src="svg/badges/tailwindcss.svg" height="32" alt="Tailwind CSS" />
 </p>
 <p><img src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
