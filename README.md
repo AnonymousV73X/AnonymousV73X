@@ -1,5 +1,5 @@
 <div align="center">
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="svg/h-greeting-dark.svg"><img src="svg/h-greeting-light.svg" height="24" alt="Felicitations ... Sir Alex Here ..." /></picture> 😎</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="svg/h-greeting-dark.svg"><img src="svg/h-greeting-light.svg" height="24" alt="Felicitations ... Sir Alex Here ..." /></picture></p>
 <!-- Using a borderless, transparent table forces perfect vertical alignment in GitHub Readmes -->
 <p align="center">
 <a href="https://github.com/AnonymousV73X/LAN-FILE-TRANSFER-LANBEAM"><img src="svg/working-lanbeam.svg" alt="Currently working on LANBeam" /></a><br>
