@@ -1,5 +1,5 @@
 <div align="center">
-<p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Felicitations 😎 ... Sir Alex Here ...</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="svg/h-greeting-dark.svg"><img src="svg/h-greeting-light.svg" height="24" alt="Felicitations ... Sir Alex Here ..." /></picture> 😎</p>
 <!-- Using a borderless, transparent table forces perfect vertical alignment in GitHub Readmes -->
 <p align="center">
 <a href="https://github.com/AnonymousV73X/LAN-FILE-TRANSFER-LANBEAM"><img src="svg/working-lanbeam.svg" alt="Currently working on LANBeam" /></a><br>
@@ -7,7 +7,7 @@
 <a href="https://github.com/AnonymousV73X/WINDOWS-MUSIC-PLAYER"><img src="svg/proud-novatune.svg" alt="I’m Proud of NovaTune" /></a>
 </p>
 <br>
-<p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Languages and Tools:</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="svg/h-tools-dark.svg"><img src="svg/h-tools-light.svg" height="21" alt="Languages and Tools" /></picture></p>
 <p>
 <img src="svg/badges/android.svg" height="32" alt="Android" />
 <img src="svg/badges/css3.svg" height="32" alt="CSS3" />
@@ -23,7 +23,7 @@
 <img src="svg/badges/tailwindcss.svg" height="32" alt="Tailwind CSS" />
 </p>
 <p><img src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
-<p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="svg/h-support-dark.svg"><img src="svg/h-support-light.svg" height="21" alt="Support" /></picture></p>
 <p align="center">
 <a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD"><img src="svg/paypal-5.svg" height="64" alt="PayPal $5 (custom amount)" /></a>
 <a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=50"><img src="svg/paypal-50.svg" height="64" alt="PayPal $50" /></a>
