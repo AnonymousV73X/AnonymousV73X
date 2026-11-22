@@ -24,7 +24,7 @@
 <p><img src="https://streak-stats.demolab.com/?user=anonymousv73x&theme=dark&hide_border=true&background=0D1117" alt="anonymousv73x" /></p>
 <p style="font-size: 1.25em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em;">Support:</p>
 <p align="center">
-<a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=5"><img src="svg/paypal-5.svg" height="64" alt="PayPal $5 (editable)" /></a>
+<a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD"><img src="svg/paypal-5.svg" height="64" alt="PayPal $5 (custom amount)" /></a>
 <a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=50"><img src="svg/paypal-50.svg" height="64" alt="PayPal $50" /></a>
 <a href="https://www.paypal.com/donate/?business=anonymousv73x%40gmail.com&currency_code=USD&amount=100"><img src="svg/paypal-100.svg" height="64" alt="PayPal $100" /></a>
 </p>
